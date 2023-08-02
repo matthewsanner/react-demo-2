@@ -1,0 +1,7 @@
+.Property {
+  border: solid black 1px;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+  width: 150px;
+}
